@@ -68,10 +68,10 @@ Before you begin, ensure you have the following installed:
 Here are some screenshots of the application:
 
 - **Main Interface**
-  ![Main Interface](path/to/screenshot1.png)
+  ![Main Interface]
 
 - **Video Player and Sidebar**
-  ![Video Player and Sidebar](path/to/screenshot2.png)
+  ![Video Player and Sidebar]
 
 ## 🔧 Built With
 
