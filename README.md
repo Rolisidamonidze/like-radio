@@ -53,16 +53,6 @@ Before you begin, ensure you have the following installed:
 3. **Explore**: View previously watched videos and pasted channels in the sidebars.
 4. **Check Your Progress**: Monitor your user level and earned badges based on watched minutes.
 
-## 🎨 Screenshots
-
-Here are some screenshots of the application:
-
-- **Main Interface**
-  ![Main Interface]
-
-- **Video Player and Sidebar**
-  ![Video Player and Sidebar]
-
 ## 🔧 Built With
 
 - **[Express.js](https://expressjs.com/)**: Web server framework for Node.js
