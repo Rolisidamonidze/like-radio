@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Video Link Scraper</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+    <div class="sidebar-left">
+        <h2>User Profile</h2>
+        <div id="level">Level: 1</div>
+        <div id="badges">Badges: 🏅</div>
+        <div class="channel-list">
+            <h3>Previously Pasted Channels:</h3>
+            <ul id="channelList"></ul>
+        </div>
+    </div>
+    <div class="sidebar-right">
+        <h3>Previously Watched Videos:</h3>
+        <ul id="watchedList"></ul>
+    </div>
+    <div class="content">
+        <div class="content-inner-wrapper">
+        <h1>Paste youtube channel and explore new music randomly</h1>
+        <form id="channelForm">
+            <input type="text" id="channelUrl" placeholder="Enter YouTube channel URL" required>
+            <button type="submit">Get Random Video</button>
+        </form>
+        <div id="player"></div>
+        <div class="message" id="message"></div>
+        <div class="loading" id="loading">Loading...</div>
+    </div>
+
+    </div>
+
+    <script src="./index.js"></script>
+</body>
+</html>
