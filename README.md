@@ -10,16 +10,6 @@ Welcome to the **YouTube Random Video Player**! This application lets you experi
 - **Persistent Data**: All your watched videos, pasted channels, and user progress are saved using local storage, ensuring a seamless experience every time you return.
 - **Responsive UI**: A beautifully designed interface featuring sidebars for user profile details and watched videos.
 
-## 📜 Table of Contents
-
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
-
 ## 🏁 Getting Started
 
 These instructions will help you set up and run the project locally.
@@ -80,31 +70,6 @@ Here are some screenshots of the application:
 - **[YouTube IFrame API](https://developers.google.com/youtube/iframe_api_reference)**: Embedding and controlling YouTube videos
 - **[HTML/CSS/JavaScript](https://developer.mozilla.org/en-US/)**: Frontend technologies
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue if you have suggestions or improvements.
-
-1. **Fork the repository**
-2. **Create your feature branch**
-    ```bash
-    git checkout -b feature/AmazingFeature
-    ```
-3. **Commit your changes**
-    ```bash
-    git commit -m 'Add some amazing feature'
-    ```
-4. **Push to the branch**
-    ```bash
-    git push origin feature/AmazingFeature
-    ```
-5. **Open a pull request**
-
 ## 🎉 Acknowledgments
-
-- Thanks to [YouTube](https://youtube.com) for providing the video content.
 - Inspired by the nostalgic feeling of radio listening, where every turn of the dial brings something new and unexpected.
 - Appreciation to the open-source community for their contributions and inspiration.
